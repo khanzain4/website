@@ -117,4 +117,5 @@ each language.
 The [doc contributors tools](https://github.com/kubernetes/website/tree/main/content/en/docs/doc-contributor-tools)
 directory in the `kubernetes/website` repository contains tools to help your
 contribution journey go more smoothly.
-
+Reference tutorials
+https://www.w3schools.com/ , https://iqratechnology.com/academy/html-training/ , https://www.javatpoint.com/
